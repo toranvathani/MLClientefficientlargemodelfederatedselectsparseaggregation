@@ -1,0 +1,1 @@
+Client-efficient large-model federated learning via federated_select and sparse aggregation : We consider logistic regression for multi-label classification, predicting which "tags" are associated with a text string based on a bag-of-words feature representation.
